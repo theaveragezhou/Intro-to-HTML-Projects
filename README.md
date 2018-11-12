@@ -4,4 +4,5 @@
   <li>Page 2</li>
   <li>Rusty Steele</li>
   <li>Things I've Learned</li>
+  <li>First Gen Pokemon Table</li>
 </ol>
